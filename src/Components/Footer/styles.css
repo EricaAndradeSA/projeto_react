@@ -1,0 +1,9 @@
+#rodape{
+    text-align: center;
+    margin-top: 100px;
+}    
+
+#rodape p{
+    color: black;
+    text-align: center;
+}
